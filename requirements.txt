@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pdfplumber
+pillow
+pytesseract
+python-multipart
+pydantic
+pyodbc
+python-dotenv
